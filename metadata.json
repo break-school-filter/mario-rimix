@@ -1,0 +1,6 @@
+{
+  "name": "Super Retro Platformer",
+  "description": "An 8-bit retro Mario-like side-scrolling platform game featuring classic physics, Goombas, Koopas, Super Mushroom and Fire Flower powerups, dynamic synthesized sound effects, and an interactive Course Creator level editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
